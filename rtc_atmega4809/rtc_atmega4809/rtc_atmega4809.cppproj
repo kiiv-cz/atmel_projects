@@ -41,7 +41,7 @@
       </framework-data>
     </AsfFrameworkConfig>
     <avrtool>com.atmel.avrdbg.tool.nedbg</avrtool>
-    <avrtoolserialnumber>MCHP3094081800004761</avrtoolserialnumber>
+    <avrtoolserialnumber>MCHP3094081800006062</avrtoolserialnumber>
     <avrdeviceexpectedsignature>0x1E9651</avrdeviceexpectedsignature>
     <avrtoolinterface>UPDI</avrtoolinterface>
     <com_atmel_avrdbg_tool_medbg>
@@ -64,7 +64,7 @@
         <InterfaceName>UPDI</InterfaceName>
       </ToolOptions>
       <ToolType>com.atmel.avrdbg.tool.nedbg</ToolType>
-      <ToolNumber>MCHP3094081800004761</ToolNumber>
+      <ToolNumber>MCHP3094081800006062</ToolNumber>
       <ToolName>nEDBG</ToolName>
     </com_atmel_avrdbg_tool_nedbg>
   </PropertyGroup>
